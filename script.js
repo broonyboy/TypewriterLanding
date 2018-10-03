@@ -67,7 +67,5 @@ function init() {
 
   // init TypeWriter
 
-  
-
   new TypeWriter(txtElement, words, wait);
 }
